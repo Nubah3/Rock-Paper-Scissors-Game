@@ -1,17 +1,15 @@
 # Rock-Paper-Scissors-Game
- 
-**Rock Paper Scissors Game** 
 
 This repository contains a simple implementation of the classic Rock, Paper, Scissors game in C++. Players can compete against a computer opponent with randomized choices.
 
-**Features**
+# Features
 
 - User-friendly console-based interface.
 - Randomized computer choices.
 - Clear display of game results (win, lose, or tie).
 - Option to play multiple rounds.
 
-**Game Rules**
+# Game Rules
 
 The game follows the traditional rules of Rock, Paper, Scissors:
 
@@ -26,7 +24,7 @@ The outcomes are determined by the rule function in the C++ code, which takes th
 
 These rules ensure a fair and classic Rock, Paper, Scissors experience for the players.
 
-**Code Overview**
+# Code Overview
 
 1. Initialization: Initialize variables for the computer's choice(computer),the player's choice(player),and a flag for playing again(playmore).
 2. Display Welcome Message: Display a welcome message and game instructions using cout.
