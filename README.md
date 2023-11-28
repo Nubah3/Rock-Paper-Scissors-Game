@@ -39,7 +39,7 @@ Display the result message indicating whether the player won, lost, or it's a ti
 
 This algorithm provides a high-level overview of the steps involved in each round of the Rock, Paper, Scissors game, from initialization to user interaction and game evaluation.
 
-**"Scissors snip, paper wraps, and rocks roll – Game joyfully! 🌟🎮"**
+# Scissors snip, paper wraps, and rocks roll – Game joyfully! 🌟🎮
 
 
 
