@@ -1,4 +1,5 @@
 **Name : Mushrefa Chowdhury Nubah**
+
 **ID   : 222-115-104 (C)**
 
 # Rock-Paper-Scissors-Game
@@ -41,6 +42,13 @@ Display the result message indicating whether the player won, lost, or it's a ti
 9. Exit: End the program when the player chooses not to play again.
 
 This algorithm provides a high-level overview of the steps involved in each round of the Rock, Paper, Scissors game, from initialization to user interaction and game evaluation.
+
+# Dependencies
+
+- C++ Compiler: The code is written in C++ and requires a C++ compiler for compilation.
+- Standard C++ Library: The standard C++ library is used for basic input/output operations and random number generation.
+
+Ensure that you have a C++ compiler installed on your system to compile and run the game.
 
 # Scissors snip, paper wraps, and rocks roll – Game joyfully! 🌟🎮
 
