@@ -1,3 +1,6 @@
+**Name : Mushrefa Chowdhury Nubah**
+**ID   : 222-115-104 (C)**
+
 # Rock-Paper-Scissors-Game
 
 This repository contains a simple implementation of the classic Rock, Paper, Scissors game in C++. Players can compete against a computer opponent with randomized choices.
